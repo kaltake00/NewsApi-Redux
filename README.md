@@ -19,7 +19,7 @@ A web app created with react.js, redux, hooks and react-bootstrap using free new
 
 # Overview
 - **Homepage.**
-![Homepage]()
+![Homepage](https://github.com/kaltake00/NewsApi-Redux/blob/main/Screenshot_1.png)
 
 - **Details Page.**
-![Details]()
+![Details](https://github.com/kaltake00/NewsApi-Redux/blob/main/Screenshot_2.png)
