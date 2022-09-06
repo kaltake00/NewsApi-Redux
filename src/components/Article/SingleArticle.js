@@ -6,11 +6,6 @@ import Header from '../UI/Header'
 
 function SingleArticle() {
   const location = useLocation()
-  console.log('locationState:', location.state)
-
-
-
-
   return (
     <>
       <Header />

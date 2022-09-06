@@ -38,13 +38,10 @@ function FrontPage() {
   }
 
   const onChangeSortingValue = () =>{
-    console.log('Checking on changing state ', searchText)
-    console.log('Sorting Value: ', sortingValue)
     var encodedSearchText = encodeURIComponent(searchText)
     dispatch(searchAndSortBy(encodedSearchText, sortingValue))
   }
 
-  console.log('Default page size: ', pageSize)
   return (
     <>
       <Header />
